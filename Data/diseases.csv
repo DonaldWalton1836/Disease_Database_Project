@@ -1,0 +1,21 @@
+DiseaseID,Name,Description,Date Founded
+1,Tuberculosis,A bacterial infection affecting the lungs.,1882-03-24
+2,Malaria,A mosquito-borne infectious disease.,1880-11-06
+3,Smallpox,A viral infection eradicated in 1980.,Unknown
+4,Polio,A viral infection causing paralysis.,1908-12-01
+5,HIV/AIDS,A virus attacking the immune system.,1981-06-05
+6,Influenza (Flu),A viral infection of the respiratory tract.,1918-03-01
+7,Cholera,An infectious disease causing severe diarrhea.,1854-08-28
+8,Hepatitis B,A viral infection of the liver.,1965-02-26
+9,Leprosy,A chronic infection affecting the skin and nerves.,1873-02-28
+10,Measles,A viral infection that is highly contagious.,1912-02-05
+11,Ebola,A virus causing hemorrhagic fever.,1976-08-01
+12,COVID-19,A novel coronavirus causing a global pandemic.,2019-12-01
+13,Alzheimer’s Disease,A progressive neurological disorder.,1906-11-03
+14,Diabetes Mellitus,A metabolic disorder affecting insulin.,1552 BC
+15,Parkinson’s Disease,A disorder of the central nervous system.,1817-05-31
+16,Dengue Fever,A mosquito-borne viral infection.,1780-01-01
+17,Typhoid Fever,A bacterial infection spread by contaminated food.,1880-01-01
+18,Rabies,A viral disease that affects the nervous system.,1885-07-06
+19,Yellow Fever,A viral disease transmitted by mosquitoes.,1648-01-01
+20,Zika Virus,A mosquito-borne virus with mild symptoms.,1947-01-01
