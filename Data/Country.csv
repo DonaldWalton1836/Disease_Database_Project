@@ -1,4 +1,4 @@
-Country_ID,Country_Name,BirthDeathRatio
+CountryID,Name,BirthDeathRatio
 1,United States,1.07
 2,United Knigdom,0.98
 3,China,0.92
