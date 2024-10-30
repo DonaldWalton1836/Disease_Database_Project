@@ -9,33 +9,33 @@ Before you get started, please install the following packages:
 You can install all required packages at once by running this command in your terminal or command prompt:
 
 
-pip install Flask mysql-connector-python pandas matplotlib mpld3 numpy
+pip3 install Flask mysql-connector-python pandas matplotlib mpld3 numpy
 
 Individual Package Installation:
 Flask: The web framework for building your application.
 
 
-pip install Flask
+pip3 install Flask
 mysql-connector-python: The MySQL database connector for Python.
 
-pip install mysql-connector-python
+pip3 install mysql-connector-python
 hashlib: This is part of the Python standard library, so no installation is needed. It’s used for hashing (e.g., creating password hashes).
 
 Pandas: A powerful data manipulation and analysis library.
 
-pip install pandas
+pip3 install pandas
 Matplotlib: A plotting library for creating visualizations.
 
 
-pip install matplotlib
+pip3 install matplotlib
 
 mpld3: A library to visualize Matplotlib plots in a web browser using D3.js.
 
 
-pip install mpld3
+pip3 install mpld3
 NumPy: A fundamental package for scientific computing with Python.
 
-pip install numpy
+pip3 install numpy
 
 
 Project Parts
