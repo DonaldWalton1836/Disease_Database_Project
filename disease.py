@@ -19,4 +19,21 @@ mydb = mysql.connector.connect(
             database="sql5736933"
         )
 
+#Part 1:
+#Implementations for the the login in page: including username, password,
+#Should be able to add to the data base once a new user is created
+#Also you can implement features that deletes a user account from the data base based on username input.
+
+#PART2:
+#Creating the funtionalities of the webpage
+#being able to click on a certain disease and should display each country info
+
+#Part 3:
+#Creating aggreate fruntions that can compare and contrast some statistsics(line or bar graph)
+#Implementations are up to you. can select what attributes you want to compare and what countries you want to compare.
+
+
+
+
+
 

@@ -16,10 +16,10 @@ connection_string = f"mysql+pymysql://{user}:{password}@{host}:{port}/{database}
 engine = create_engine(connection_string)
 
 # Load the CSV file into a DataFrame
-df = pd.read_csv('Data/People.csv')
+df = pd.read_csv('Data/Country_People.csv')
 
 # Import the DataFrame into the MySQL database
 # Replace 'your_table_name' with the name of your table
-df.to_sql('People', con=engine, if_exists='append', index=False)
+df.to_sql('Country_People', con=engine, if_exists='append', index=False)
 
 print("Data imported successfully!")
