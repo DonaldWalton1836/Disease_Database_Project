@@ -51,6 +51,19 @@ Important commands to remember:
 "git commit -m " " " = committing your code into the repo and adding a comment to it if you want to give everyone else a little message around it.
 "git push" = pushes your code to appear on the repo.
 
+Accessing the Database
+
+Please install the SQLTOOLS extension on VSCode. It is the yellow cylander as an icon. This will allow you to access the database and look at it. 
+Step 1: Go to the new SQLTools tab on the top left. It looks like a cylinder.
+Step 2: Open up the "setup.py" file on the repo. (This contains the information for accessing the database.)
+Step 3: Press the "Add New Connection" and press "MySQL".
+Step 4: Plug in the information that is in the "setup.py" file into the "Connection Assistant", and save the connection when done.
+Step 5: Press the green plug button next to the newly added database (It should be called sql5736933.) and enter the password.
+
+Now you are in the database. You can use some basic MySQL commands to see the data. I highly recommend using SQLBolt.com to learn how to look at the data, or pressing the arrow pointing at the database you've connected to, and slowly you will see each database open up. 
+if you go to tables and press the magnifying glass, then you will be able to open up each table and see the information.
+
+
 
 Project Parts
 Part 1: User Authentication
