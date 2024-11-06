@@ -37,6 +37,20 @@ NumPy: A fundamental package for scientific computing with Python.
 
 pip3 install numpy
 
+How to use git: ( If you have experience with GitHub, you can skip this step and use this as a review if needed)
+
+Step 1: Go to the repo that Donald invited you to on the GitHub website and Press "Code" and copy the HTTPS URL there. 
+Step 2: Press "Settings" and then press "Command Palette" and type "Git Clone"
+Step 3: Paste the URL and press enter.
+Step 4: Pick a folder or make a folder you want to save the repo into on your computer and then press "Open" after you pick a folder.
+Now you can access the repo on your VSCode.
+
+Important commands to remember:
+"git pull" = get any updated information put into the repo.
+"git add ." = Set up your new files or folders or updates for upload. The period is important so it grabs all of your files.
+"git commit -m " " " = committing your code into the repo and adding a comment to it if you want to give everyone else a little message around it.
+"git push" = pushes your code to appear on the repo.
+
 
 Project Parts
 Part 1: User Authentication
